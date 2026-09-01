@@ -671,3 +671,16 @@ h1,h2,h3{
   .reveal{ opacity:1; transform:none; transition:none; }
   html{ scroll-behavior:auto; }
 }
+
+/* ===========================================================
+   Project page
+   =========================================================== */
+.project-cover p {
+  margin-top: 40px;
+  margin-bottom: 15px;
+}
+
+.project-cover img {
+  margin-bottom: 50px;
+}
+
